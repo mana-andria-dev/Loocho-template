@@ -1,1 +1,1 @@
-let demoMana = 1;
+let demoMana = 2;
