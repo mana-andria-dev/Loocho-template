@@ -1,1 +1,1 @@
-var app3v1 = 1;
+var app3v1 = 1.0;
