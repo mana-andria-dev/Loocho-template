@@ -1,0 +1,1 @@
+let javascriptCode = 'This is my javascript code';
