@@ -1,0 +1,1 @@
+let demoMana = 1;
