@@ -1,2 +1,2 @@
-//connecter v2
+//connecter v2 *************
 var test = 'v2';
