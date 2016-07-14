@@ -1,1 +1,0 @@
-var app1v1 = 'app1v1';
