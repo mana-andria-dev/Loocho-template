@@ -1,1 +1,0 @@
-var calculatorv3 = '3.0';

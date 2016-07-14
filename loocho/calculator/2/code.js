@@ -1,1 +1,0 @@
-var calculatorv2 = 2;
